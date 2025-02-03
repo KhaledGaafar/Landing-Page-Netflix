@@ -2,11 +2,6 @@
 
 A responsive clone of the Netflix homepage featuring dynamic carousels, video previews, and modern web design patterns. Perfect for mastering complex layouts and responsive techniques.
 
-![Netflix Clone Preview](<your-screenshot-url-here>)
-
-## 🚀 Live Demo
-[View Live Demo](https://your-deployment-link.com)
-
 ## ✨ Features
 
 - **Responsive Design**: Works seamlessly on all device sizes
